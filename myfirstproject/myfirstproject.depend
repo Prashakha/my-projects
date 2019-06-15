@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1560407526 source:c:\users\prashakha\desktop\my-projects\myfirstproject\main.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
